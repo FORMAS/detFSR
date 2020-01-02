@@ -18,7 +18,7 @@ id | Requirement                    | Description
 14 | Collaborative development      | Ease of teamwork
 15 | Concurrency                    | Ability to run processes simultaneously
 16 | Classic tests                  | Performing traditional tests
----|--------------------------------|-------------------------------------
+---|--------------------------------|------------
 17 | End user test                  | Tests required to service heterogeneous users
 18 | Scalability test               | Performance tests with increased load (data)
 19 | Device sync test               | Integration testing across multiple devices
