@@ -1,3 +1,3 @@
-# detFSR
+# FSR
 
-A brief description of each requirement
+A brief [description](https://github.com/FORMAS/detFSR/blob/master/setReq.md) of each requirement
